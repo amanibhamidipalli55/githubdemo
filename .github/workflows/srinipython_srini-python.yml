@@ -31,4 +31,4 @@ jobs:
       with:
         app-name: 'srini-python'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_eea0811184554ba28b5146b3b4a95e4a }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_dd8376650e194796b44f62c0d1861c30 }}
